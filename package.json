@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-until-each",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Until a test condition is true, invoke a function for each element in a collection.",
   "license": "Apache-2.0",
   "author": {
