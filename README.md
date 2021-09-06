@@ -254,6 +254,13 @@ untilEach( arr, predicate, log );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/until-each-right`][@stdlib/utils/until-each-right]: until a test condition is true, invoke a function for each element in a collection, iterating from right to left.
+-   [`@stdlib/utils/while-each`][@stdlib/utils/while-each]: while a test condition is true, invoke a function for each element in a collection.
+
 </section>
 
 <!-- /.related -->
@@ -320,6 +327,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [mdn-object]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+<!-- <related-links> -->
+
+[@stdlib/utils/until-each-right]: https://github.com/stdlib-js/utils-until-each-right
+
+[@stdlib/utils/while-each]: https://github.com/stdlib-js/utils-while-each
+
+<!-- </related-links> -->
 
 </section>
 
