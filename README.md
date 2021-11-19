@@ -20,7 +20,7 @@ limitations under the License.
 
 # untilEach
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Until a test condition is true, invoke a function for each element in a collection.
 
@@ -258,8 +258,8 @@ untilEach( arr, predicate, log );
 
 ## See Also
 
--   [`@stdlib/utils/until-each-right`][@stdlib/utils/until-each-right]: until a test condition is true, invoke a function for each element in a collection, iterating from right to left.
--   [`@stdlib/utils/while-each`][@stdlib/utils/while-each]: while a test condition is true, invoke a function for each element in a collection.
+-   <span class="package-name">[`@stdlib/utils/until-each-right`][@stdlib/utils/until-each-right]</span><span class="delimiter">: </span><span class="description">until a test condition is true, invoke a function for each element in a collection, iterating from right to left.</span>
+-   <span class="package-name">[`@stdlib/utils/while-each`][@stdlib/utils/while-each]</span><span class="delimiter">: </span><span class="description">while a test condition is true, invoke a function for each element in a collection.</span>
 
 </section>
 
@@ -310,8 +310,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-until-each/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-until-each?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-until-each.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-until-each/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
