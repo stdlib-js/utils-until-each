@@ -2,40 +2,6 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
-
-## Unreleased (2024-08-01)
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
-</section>
-
-<!-- /.release -->
-
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
@@ -70,7 +36,67 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-23)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`069c10d`](https://github.com/stdlib-js/stdlib/commit/069c10d99850d8ec51e7764d2266ed34405ff542) - increase minimum TypeScript version
+-   [`5cf30d1`](https://github.com/stdlib-js/stdlib/commit/5cf30d1a059e3fd6fdafa0e327a148d64f9d002e) - refactor declarations to use generics
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`3f58bf9`](https://github.com/stdlib-js/stdlib/commit/3f58bf96d366a7c2dd0e70813f52cc5e22fa83c1) - add missing `this` parameter
+-   [`e91b8c5`](https://github.com/stdlib-js/stdlib/commit/e91b8c59c2b088959b0233b2f62a9b340989e817) - update import path for `Collection` type definition
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`069c10d`](https://github.com/stdlib-js/stdlib/commit/069c10d99850d8ec51e7764d2266ed34405ff542): increase minimum TypeScript version
+-   [`5cf30d1`](https://github.com/stdlib-js/stdlib/commit/5cf30d1a059e3fd6fdafa0e327a148d64f9d002e): refactor declarations to use generics
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3f58bf9`](https://github.com/stdlib-js/stdlib/commit/3f58bf96d366a7c2dd0e70813f52cc5e22fa83c1) - **fix:** add missing `this` parameter _(by Athan Reines)_
+-   [`e91b8c5`](https://github.com/stdlib-js/stdlib/commit/e91b8c59c2b088959b0233b2f62a9b340989e817) - **fix:** update import path for `Collection` type definition _(by Athan Reines)_
+-   [`069c10d`](https://github.com/stdlib-js/stdlib/commit/069c10d99850d8ec51e7764d2266ed34405ff542) - **feat:** increase minimum TypeScript version _(by Athan Reines)_
+-   [`5cf30d1`](https://github.com/stdlib-js/stdlib/commit/5cf30d1a059e3fd6fdafa0e327a148d64f9d002e) - **feat:** refactor declarations to use generics _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
